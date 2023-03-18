@@ -1,8 +1,9 @@
 name: "."
-title: "First Personal Webpage"
+title: "Home"
 description: |
   First Personal Webpage
 output_dir: "docs"
+theme: personal-theme.css
 navbar:
   right:
     - text: "Home"
